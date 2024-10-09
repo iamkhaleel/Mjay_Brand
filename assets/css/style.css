@@ -2886,25 +2886,25 @@ input.common-input {
       background-position: center;
       background-size: cover; }
     .home-2-banner .single-slide .single-image .image-1 {
-      background-image: url("../img/home-2/banner/banner-1.png"); }
+      background-image: url("../img/home-2/banner/banner1.jpg"); }
     .home-2-banner .single-slide .single-image .image-2 {
-      background-image: url("../img/home-2/banner/banner-2.png"); }
+      background-image: url("../img/home-2/banner/banner2.jpg"); }
     .home-2-banner .single-slide .single-image .image-3 {
-      background-image: url("../img/home-2/banner/banner-3.png"); }
+      background-image: url("../img/home-2/banner/banner3.jpg"); }
     .home-2-banner .single-slide .single-image .image-4 {
-      background-image: url("../img/home-2/banner/banner-4.png"); }
+      background-image: url("../img/home-2/banner/banner4.jpg"); }
     .home-2-banner .single-slide .single-image .image-5 {
-      background-image: url("../img/home-2/banner/banner-5.png"); }
+      background-image: url("../img/home-2/banner/banner5.jpg"); }
     .home-2-banner .single-slide .single-image .image-6 {
-      background-image: url("../img/home-2/banner/banner-6.png"); }
+      background-image: url("../img/home-2/banner/banner6.jpg"); }
     .home-2-banner .single-slide .single-image .image-7 {
-      background-image: url("../img/home-2/banner/banner-7.png"); }
+      background-image: url("../img/home-2/banner/banner7.jpg"); }
     .home-2-banner .single-slide .single-image .image-8 {
-      background-image: url("../img/home-2/banner/banner-8.png"); }
+      background-image: url("../img/home-2/banner/banner8.jpg"); }
     .home-2-banner .single-slide .single-image .image-9 {
-      background-image: url("../img/home-2/banner/banner-9.png"); }
+      background-image: url("../img/home-2/banner/banner9.jpg"); }
     .home-2-banner .single-slide .single-image .image-10 {
-      background-image: url("../img/home-2/banner/banner-10.png"); }
+      background-image: url("../img/home-2/banner/banner10.jpg"); }
     .home-2-banner .single-slide .single-image .hover-state {
       position: absolute;
       left: 0;
@@ -2931,19 +2931,19 @@ input.common-input {
       visibility: visible; }
 
 .home-2-banner .single-slide-image1 {
-  background-image: url("../img/home-2/banner/banner-bg.jpg"); }
+  background-image: url("../img/home-2/banner/bannerbg.jpg"); }
 
 .home-2-banner .single-slide-image2 {
-  background-image: url("../img/home-2/banner/banner-bg2.png"); }
+  background-image: url("../img/home-2/banner/bannerbg2.jpg"); }
 
 .home-2-banner .single-slide-image3 {
-  background-image: url("../img/home-2/banner/banner-bg3.png"); }
+  background-image: url("../img/home-2/banner/bannerbg3.jpg"); }
 
 .home-2-banner .single-slide-image4 {
-  background-image: url("../img/home-2/banner/banner-bg4.png"); }
+  background-image: url("../img/home-2/banner/bannerbg4.jpg"); }
 
 .home-2-banner .single-slide-image5 {
-  background-image: url("../img/home-2/banner/banner-bg5.png"); }
+  background-image: url("../img/home-2/banner/bannerbg5.jpg"); }
 
 .home-2-banner .slick-active .slider-left h1 {
   -webkit-animation: 1s .3s fadeInUp both;
@@ -3144,7 +3144,7 @@ input.common-input {
     position: relative;
     overflow: hidden; }
   .collection-area .collection-bg {
-    background-image: url("../img/home-1/collection/collection.png");
+    background-image: url("../img/home-1/collection/collection.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -3177,15 +3177,15 @@ input.common-input {
       -o-transition: .5s;
       transition: .5s; }
     .categories-area .single-item .item-image.cat-1 {
-      background-image: url("../img/home-1/category/cat-1.png"); }
+      background-image: url("../img/home-1/category/cat1.jpg"); }
     .categories-area .single-item .item-image.cat-2 {
-      background-image: url("../img/home-1/category/cat-2.png"); }
+      background-image: url("../img/home-1/category/cat2.jpg"); }
     .categories-area .single-item .item-image.cat-3 {
-      background-image: url("../img/home-1/category/cat-3.png"); }
+      background-image: url("../img/home-1/category/cat3.jpg"); }
     .categories-area .single-item .item-image.cat-4 {
-      background-image: url("../img/home-1/category/cat-4.png"); }
+      background-image: url("../img/home-1/category/cat4.jpg"); }
     .categories-area .single-item .item-image.cat-5 {
-      background-image: url("../img/home-1/category/cat-5.png"); }
+      background-image: url("../img/home-1/category/cat5.jpg"); }
     .categories-area .single-item .item-content {
       text-align: center;
       padding: 30px; }
@@ -3240,11 +3240,11 @@ input.common-input {
       background-position: center;
       background-size: cover; }
     .discount-area .discount-image .image-bg.image-1 {
-      background-image: url("../img/home-1/discount/discount-1.png"); }
+      background-image: url("../img/home-1/discount/discount1.jpg"); }
     .discount-area .discount-image .image-bg.image-2 {
       background-image: url("../img/home-1/discount/discount-2.png"); }
     .discount-area .discount-image .image-bg.image-3 {
-      background-image: url("../img/home-1/discount/discount-3.png"); }
+      background-image: url("../img/home-1/discount/discount2.jpg"); }
 
 /* Video */
 .video-area {
@@ -3267,7 +3267,7 @@ input.common-input {
     left: 5%;
     width: 55%;
     height: 100%;
-    background-image: url("../img/home-1/video/video-bg.png");
+    background-image: url("../img/home-1/video/videobg.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     z-index: 2; }
@@ -3640,22 +3640,22 @@ input.common-input {
   height: 450px; }
 
 .instagram-area .slide-1 {
-  background-image: url("../img/home-1/instagram/instagram-1.png"); }
+  background-image: url("../img/home-1/instagram/instagram1.jpg"); }
 
 .instagram-area .slide-2 {
-  background-image: url("../img/home-1/instagram/instagram-2.png"); }
+  background-image: url("../img/home-1/instagram/instagram2.jpg"); }
 
 .instagram-area .slide-3 {
-  background-image: url("../img/home-1/instagram/instagram-3.png"); }
+  background-image: url("../img/home-1/instagram/instagram3.jpg"); }
 
 .instagram-area .slide-4 {
-  background-image: url("../img/home-1/instagram/instagram-4.png"); }
+  background-image: url("../img/home-1/instagram/instagram4.jpg"); }
 
 .instagram-area .slide-5 {
-  background-image: url("../img/home-1/instagram/instagram-5.png"); }
+  background-image: url("../img/home-1/instagram/instagram5.jpg"); }
 
 .instagram-area .slide-6 {
-  background-image: url("../img/home-1/instagram/instagram-6.png"); }
+  background-image: url("../img/home-1/instagram/instagram6.jpg"); }
 
 /*-----------------------------
     Accordion Item
